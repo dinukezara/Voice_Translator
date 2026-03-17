@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+**/venv/
+**/.venv/
+
+# Environment / secrets
+.env
+
+# Logs & runtime data
+logs/
+src/logs/
+data/
+src/data/
+
+# Generated audio
+*.mp3
+
+# Local databases
+*.db
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db

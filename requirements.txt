@@ -1,0 +1,8 @@
+SpeechRecognition
+PyAudio
+deep-translator
+gTTS
+playsound==1.2.2
+customtkinter
+python-dotenv
+pyinstaller
